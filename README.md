@@ -82,21 +82,3 @@ Jul 2023 – Mar 2024   Front-End Developer          Pied Piper
 2024                   AI Training Developer        Outlier
 ```
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RobiNZajicek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobiNZajicek&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RobiNZajicek&color=58A6FF&style=flat-square)
-
-</div>
